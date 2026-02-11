@@ -16,8 +16,23 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "c37fdbb03978aa53",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58d56b785e07de23",
+  "active": "c37fdbb03978aa53",
   "lastOpenFiles": [
+    "2026-02-11.md",
     "Welcome.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
