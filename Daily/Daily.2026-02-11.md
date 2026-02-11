@@ -10,7 +10,7 @@ not done
 
 ## Tweet
 
-[[Tweet.2026-02-11|Tweet]]
+[[2026-02-11|Tweet]]
 
 ## Tasks
 
