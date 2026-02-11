@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee65fd99cacb0dfa",
+        "id": "f0d2b2eac14f176b",
         "type": "tabs",
         "children": [
           {
-            "id": "44801c51b5b6c20b",
+            "id": "5f6f83cb0400eb34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-02-11"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2026-02-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,9 +151,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "203d2a68e865ac1d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +174,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "44801c51b5b6c20b",
-  "lastOpenFiles": []
+  "active": "5f6f83cb0400eb34",
+  "lastOpenFiles": [
+    "2026-02-11.md",
+    "/2026-02-11.md",
+    "Untitled",
+    "Untitled.md"
+  ]
 }
