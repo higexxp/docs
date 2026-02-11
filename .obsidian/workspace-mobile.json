@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2026-02-11"
             }
+          },
+          {
+            "id": "97de93c7f993ce44",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +189,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "5f6f83cb0400eb34",
+  "active": "97de93c7f993ce44",
   "lastOpenFiles": [
     "2026-02-11.md",
     "/2026-02-11.md",
