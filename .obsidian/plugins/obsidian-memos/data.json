@@ -1,5 +1,5 @@
 {
-  "FirstLoaded": true,
+  "FirstLoaded": false,
   "StartDate": "Sunday",
   "InsertAfter": "",
   "UserName": "THINO 😉",
@@ -10,7 +10,7 @@
   "ShareFooterStart": "{ThinoNum} Thino {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
   "DefaultPrefix": "List",
-  "DefaultTimePrefix": "HH:mm",
+  "DefaultTimePrefix": "HH:mm:ss",
   "UseDailyOrPeriodic": "Daily",
   "InsertDateFormat": "Tasks",
   "DefaultEditorLocation": "Top",
